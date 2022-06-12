@@ -19,6 +19,8 @@ function createWindow() {
 
     start(win);
 
+    win.removeMenu();
+
     win.loadURL("http://localhost:8080");
 }
 

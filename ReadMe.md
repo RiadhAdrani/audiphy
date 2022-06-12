@@ -25,4 +25,22 @@ Audiphy is intended to be a `Spotify` clone, but turned out to be an audio playe
 
 Clone this repo and serve using `npm run serve`. To create an executable, you should first build the Front End, then use an [Electron Packager](https://www.electronjs.org/docs/latest/tutorial/application-distribution) to bundle the whole thing.
 
+#### Screenshots
+
+##### Library Menu
+
+<img src="./ss/library.png">
+
+##### Nav Bar in action
+
+<img src="./ss/navbar.png">
+
+##### Player in action
+
+<img src="./ss/player.png">
+
+##### Playlist Menu
+
+<img src="./ss/playlist.png">
+
 Thank you for coming !
